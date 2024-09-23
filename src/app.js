@@ -7,7 +7,6 @@ import "./assets/img/4geeks.ico";
 
 window.onload = function() {
   //write your code here
-  console.log("Hello Rigo from the console!");
 
   //write your code here
   let who = ["The cat", "My sister", "The zombie", "My bird"];
